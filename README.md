@@ -1,10 +1,3 @@
-# Full Stack TypeScript
-
-Mike North's Full Stack TypeScript course
-
-- Video: [Frontend Masters](https://frontendmasters.com/workshops/fullstack-typescript/)
-- Course website: [TypeScript Training: Full Stack TypeScript](https://www.typescript-training.com/course/full-stack-typescript)
-
 ## Setup
 
 First, if you want to ensure you're using the correct Node.js and package manager versions, [install Volta](http://volta.sh)
@@ -43,7 +36,3 @@ yarn dev
 ```
 
 After the client and server build processes complete, you should see an "imitation Twitter" running on [http://localhost:1234](http://localhost:1234).
-
-## Legal
-
-&copy; 2022 Mike North, all rights reserved.
